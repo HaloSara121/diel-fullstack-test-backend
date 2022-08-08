@@ -5,5 +5,5 @@
 
 # Para facilitar
 
-<p>Com o intuito de agilizar o processo de analise do teste, irei disponibilizar a <strong>secret key</strong> que foi utilizada para teste durante o desenvolvimento: <strong>fnAEtLVQ3YACUKZhvEWsqioNn-3KrM9lMO90m7Qa</strong></p>
+<p>Com o intuito de agilizar o processo de análise do teste, irei disponibilizar a secret key que foi utilizada para testes durante o desenvolvimento: <strong>fnAEtLVQ3YACUKZhvEWsqioNn-3KrM9lMO90m7Qa</strong></p>
 <p>Porém, caso possível seria aconselhável criar a própria database.</p>
